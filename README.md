@@ -1,2 +1,1 @@
-# Bicycle Wholesaler 
-# Profit Decline Analysis and Strategic Solutions
+# Bicycle Wholesaler: Profit Decline Analysis & Strategic Solutions
