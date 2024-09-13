@@ -35,5 +35,5 @@ The objective of this analysis is to identify the **key drivers** behind the dec
 ## Files Uploaded
 
 - **SQL Code:** Queries used for data cleaning, exploration, and analysis.
-- **Tableau File:** Visualizations for sales trends, profit analysis, and regional performance.
-- **Presentation:** A slide (PDF) summarizing the analysis, insights, and recommendations for executive team.
+- **Tableau File:** Visualizations for sales trends, profit analysis, and regional performance. [View on Public Live]([https://www.makeareadme.com/](https://public.tableau.com/views/CAKE_com-ProfitDecliningProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+- **Presentation:** A slide (PDF) summarizing the analysis, insights, and recommendations for executive team. [View on Public Live]([[View on Public Live]([https://www.makeareadme.com/](https://public.tableau.com/views/CAKE_com-ProfitDecliningProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))))https://docs.google.com/presentation/d/1DHvxIr1lU1gAf20gmNS1YZ9TReEFqKBZiB6wpskGw84/edit?usp=sharing
